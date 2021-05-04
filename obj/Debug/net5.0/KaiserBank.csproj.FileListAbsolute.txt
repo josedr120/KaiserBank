@@ -1,0 +1,16 @@
+/run/media/josedr/DATA-X/Programming Proyects/C# Projects/KaiserBank/obj/Debug/net5.0/KaiserBank.csprojAssemblyReference.cache
+/run/media/josedr/DATA-X/Programming Proyects/C# Projects/KaiserBank/obj/Debug/net5.0/KaiserBank.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/josedr/DATA-X/Programming Proyects/C# Projects/KaiserBank/obj/Debug/net5.0/KaiserBank.AssemblyInfoInputs.cache
+/run/media/josedr/DATA-X/Programming Proyects/C# Projects/KaiserBank/obj/Debug/net5.0/KaiserBank.AssemblyInfo.cs
+/run/media/josedr/DATA-X/Programming Proyects/C# Projects/KaiserBank/obj/Debug/net5.0/KaiserBank.csproj.CoreCompileInputs.cache
+/run/media/josedr/DATA-X/Programming Proyects/C# Projects/KaiserBank/bin/Debug/net5.0/KaiserBank
+/run/media/josedr/DATA-X/Programming Proyects/C# Projects/KaiserBank/bin/Debug/net5.0/KaiserBank.deps.json
+/run/media/josedr/DATA-X/Programming Proyects/C# Projects/KaiserBank/bin/Debug/net5.0/KaiserBank.runtimeconfig.json
+/run/media/josedr/DATA-X/Programming Proyects/C# Projects/KaiserBank/bin/Debug/net5.0/KaiserBank.runtimeconfig.dev.json
+/run/media/josedr/DATA-X/Programming Proyects/C# Projects/KaiserBank/bin/Debug/net5.0/KaiserBank.dll
+/run/media/josedr/DATA-X/Programming Proyects/C# Projects/KaiserBank/bin/Debug/net5.0/ref/KaiserBank.dll
+/run/media/josedr/DATA-X/Programming Proyects/C# Projects/KaiserBank/bin/Debug/net5.0/KaiserBank.pdb
+/run/media/josedr/DATA-X/Programming Proyects/C# Projects/KaiserBank/obj/Debug/net5.0/KaiserBank.dll
+/run/media/josedr/DATA-X/Programming Proyects/C# Projects/KaiserBank/obj/Debug/net5.0/ref/KaiserBank.dll
+/run/media/josedr/DATA-X/Programming Proyects/C# Projects/KaiserBank/obj/Debug/net5.0/KaiserBank.pdb
+/run/media/josedr/DATA-X/Programming Proyects/C# Projects/KaiserBank/obj/Debug/net5.0/KaiserBank.genruntimeconfig.cache
